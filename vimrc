@@ -39,7 +39,7 @@ let g:tex_indent_items = 1
 
 filetype on       " enable file type detection
 syntax on         " syntax highlighting
-set t_co=256
+set t_Co=256
 set background=dark
 "colorscheme watermark 
 colorscheme perso1_dark
